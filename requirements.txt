@@ -1,0 +1,9 @@
+configparser
+requests
+solana
+utils
+pysolana
+solders
+reportlab
+pillow
+flask
